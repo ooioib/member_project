@@ -1,4 +1,4 @@
-# tests/confitest.py
+# tests/conftest.py
 import pytest
 from apps.member_manager import MemberManager
 
